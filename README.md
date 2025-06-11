@@ -6,8 +6,8 @@
 
 ## Conecte-se Comigo
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/LuanRod23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luan-r-91b101320)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=White)](emailto:luanrc2008@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/luan-r-91b101320/)])
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=White)](mailto:luanrc2008@gmail.com)
 ## Aprimorando conhecimento em ...
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=)
 ![CSS3](https://img.shields.io/badge/css3-000.svg?style=for-the-badge&logo=css3&logoColor=white)
